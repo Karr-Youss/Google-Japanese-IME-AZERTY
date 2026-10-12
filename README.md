@@ -1,5 +1,4 @@
-# Google-Japanese-IME-AZERTY
-A custom Romaji table to fix Google Japanese Input for French AZERTY keyboards
+
 <h1 align="center">🎌 Google Japanese Input - AZERTY Fix</h1>
 
 <p align="center">
